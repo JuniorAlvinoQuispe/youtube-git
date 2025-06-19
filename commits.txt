@@ -1,0 +1,60 @@
+commit b805d097f3606642736825049f04a07063d35da3
+Author: Junior Alvino <junioralvinoquipe26@gmail.com>
+Date:   Sat Jun 14 15:00:16 2025 -0500
+
+    Lista de estaciones del año
+
+commit 96c53adf40dbb3f71990bdffacf9cc5318e17304
+Merge: 4d51322 4ccea4d
+Author: Junior Alvino <junioralvinoquipe26@gmail.com>
+Date:   Sat Jun 14 14:20:35 2025 -0500
+
+    Merge branch 'javascript'
+
+commit 4ccea4deceb99910865daccd0e4106af24147f50
+Author: Junior Alvino <junioralvinoquipe26@gmail.com>
+Date:   Sat Jun 14 13:38:21 2025 -0500
+
+    console creado
+
+commit 953be6c697c673e56af24efa34a885044d366900
+Author: Junior Alvino <junioralvinoquipe26@gmail.com>
+Date:   Sat Jun 14 13:31:02 2025 -0500
+
+    Archivo javascript creado
+
+commit 4d51322c291ef195df412126474a08049be644e7
+Author: Junior Alvino <junioralvinoquipe26@gmail.com>
+Date:   Sat Jun 14 13:25:16 2025 -0500
+
+    Archivo style creado
+
+commit be52c41130ebf50b7c526340982c0123ae7b5bd9
+Author: Junior Alvino <junioralvinoquipe26@gmail.com>
+Date:   Sat Jun 14 13:06:47 2025 -0500
+
+    Creando archivo index.html
+
+commit 6de569e09c5774f27a32bdca52494997f7596ae3
+Author: JuniorAlvinoQuispe <108156077+JuniorAlvinoQuispe@users.noreply.github.com>
+Date:   Fri Jun 13 16:11:17 2025 -0500
+
+    Create license.txt
+
+commit f6185d4a3f8024e7c9306fb3c7db706191558b09
+Author: Junior Alvino <junioralvinoquipe26@gmail.com>
+Date:   Fri Jun 13 16:03:57 2025 -0500
+
+    Agregando mas contenido al archivo readme.md
+
+commit b915eff23aed228739d71186e54c4df35fc9d5e2
+Author: Junior Alvino <junioralvinoquipe26@gmail.com>
+Date:   Fri Jun 13 15:47:39 2025 -0500
+
+    Archivo modificado
+
+commit a195bf1cdefae01cadec9a245c44cc3b57670eb4
+Author: Junior Alvino <junioralvinoquipe26@gmail.com>
+Date:   Fri Jun 13 13:21:27 2025 -0500
+
+    Primer cambio realizado
